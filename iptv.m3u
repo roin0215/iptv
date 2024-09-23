@@ -167,8 +167,6 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000053
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="6562" tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="数字频道",怀旧剧场
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000043
-#EXTINF:-1 tvg-id="6560" tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="数字频道",世界地理
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="6569" tvg-name="CCTV央视精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="数字频道",文化精品
 http://10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000057
 http://mail.petzhu.top:7000/rtp/239.254.201.229:7260
@@ -192,8 +190,6 @@ http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab10771
 http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
 http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" tvg-logo="" group-title="数字频道",爱上4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="数字频道",NweTV超级电影
@@ -218,11 +214,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #广播频道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="广播频道" radio="true",UFM 1003
 https://22243.live.streamtheworld.com/UFM_1003AAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽音乐广播.png" group-title="广播频道" radio="true",经典104.2
-https://live.ximalaya.com/radio-first-page-app/live/153/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/安徽交通广播.png" group-title="广播频道" radio="true",安徽交通广播
 https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cnr中华之声.png" group-title="广播频道" radio="true",中国之声
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-
 
